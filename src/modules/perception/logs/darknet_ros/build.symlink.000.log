@@ -1,0 +1,5 @@
+Symlinking /home/nvidia/Documents/FusionAD/src/modules/perception/devel/share/darknet_ros/cmake/darknet_rosConfig.cmake
+Symlinking /home/nvidia/Documents/FusionAD/src/modules/perception/devel/share/darknet_ros/cmake/darknet_rosConfig-version.cmake
+Symlinking /home/nvidia/Documents/FusionAD/src/modules/perception/devel/lib/libdarknet_ros_lib.so
+Symlinking /home/nvidia/Documents/FusionAD/src/modules/perception/devel/lib/pkgconfig/darknet_ros.pc
+Symlinking /home/nvidia/Documents/FusionAD/src/modules/perception/devel/lib/darknet_ros/darknet_ros

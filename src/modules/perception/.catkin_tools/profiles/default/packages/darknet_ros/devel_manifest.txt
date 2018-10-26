@@ -1,0 +1,6 @@
+darknet_ros/darknet_ros
+/home/nvidia/Documents/FusionAD/src/modules/perception/devel/.private/darknet_ros/share/darknet_ros/cmake/darknet_rosConfig.cmake /home/nvidia/Documents/FusionAD/src/modules/perception/devel/share/darknet_ros/cmake/darknet_rosConfig.cmake
+/home/nvidia/Documents/FusionAD/src/modules/perception/devel/.private/darknet_ros/share/darknet_ros/cmake/darknet_rosConfig-version.cmake /home/nvidia/Documents/FusionAD/src/modules/perception/devel/share/darknet_ros/cmake/darknet_rosConfig-version.cmake
+/home/nvidia/Documents/FusionAD/src/modules/perception/devel/.private/darknet_ros/lib/libdarknet_ros_lib.so /home/nvidia/Documents/FusionAD/src/modules/perception/devel/lib/libdarknet_ros_lib.so
+/home/nvidia/Documents/FusionAD/src/modules/perception/devel/.private/darknet_ros/lib/pkgconfig/darknet_ros.pc /home/nvidia/Documents/FusionAD/src/modules/perception/devel/lib/pkgconfig/darknet_ros.pc
+/home/nvidia/Documents/FusionAD/src/modules/perception/devel/.private/darknet_ros/lib/darknet_ros/darknet_ros /home/nvidia/Documents/FusionAD/src/modules/perception/devel/lib/darknet_ros/darknet_ros
